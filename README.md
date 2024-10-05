@@ -1,2 +1,2 @@
-# electiva..github.io
+# electiva.github.io
 Class
