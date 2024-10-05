@@ -1,0 +1,38 @@
+body
+{
+  font-family: 'Times New Roman', Times, serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+form
+{
+  padding: 10px 10px;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+  width: 660px;
+  height: 565%;
+  background-color: gray;
+h1
+{
+   color: #2A2828; 
+}
+p
+{
+  color: #2A2828;
+}
+}
+label
+{
+  color: #2A2828;
+}
+input, textarea
+{
+  border-radius: 20px;
+  background-color: whitesmoke;
+  outline: none;
+}
+button
+{
+  border-radius: 25xp;
+}
